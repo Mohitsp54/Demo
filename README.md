@@ -1,4 +1,4 @@
 # Demo
 My first demo repository
 <br>
-Author -- Mohit Patil
+Author -- Mohit Satish Patil
